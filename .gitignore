@@ -5,6 +5,7 @@ Package.resolved
 /*.xcodeproj
 .vscode
 .*.sw?
-
+/jsc
 # custom GCE configuration
 Cloud/GCE/config.sh
+statuslog/jsc.txt
